@@ -1,0 +1,7 @@
+interface:
+  display_name: "WeChat to Obsidian"
+  short_description: "Save WeChat articles to Obsidian"
+  brand_color: "#2AAE67"
+  default_prompt: "Use $wechat-to-obsidian to save this WeChat public account article to my Obsidian vault."
+policy:
+  allow_implicit_invocation: true
